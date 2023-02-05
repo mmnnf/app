@@ -1,0 +1,429 @@
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 1
+                          ITT fakültəsi Qr. 652id
+1.What is high level and low level programing language  0
+2.Nested assignment in C  11
+3.Arrays  and multidimensional arrays in C  20
+4.Write C program that find divion and mod of given two number without using / and %  46
+5.Create function that replace odd number with its square in given array  56
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 2
+                          ITT fakültəsi Qr. 652id
+1.Logical, assigment operators,precedence of operators  6
+2.What is macros in C,object like and function like macros  12
+3.Pass by value and pass by referans in C   22
+4.Write C program print all digit of given number that it's size arbitary  43
+5.Create function that replace odd number with its square in given array  56
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 3
+                          ITT fakültəsi Qr. 652id
+1.Relational,arithmetic operations  5
+2.What is dangling else problem  14
+3.What is header files and how they used in C  38
+4.Write C program that print fibonnachi number up to entered index  47
+5.2D arbitary array is given. Create program that swap its first row with last row  57
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 4
+                          ITT fakültəsi Qr. 652id
+1.Algorithm.What is characteristic of algorithm?  1
+2.Conditional statements and its types.  13
+3.Error types and handling   37
+4.Write C program check given number's digit is sorted or not  45
+5.Create function that find maximum of two given number  54
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 5
+                          ITT fakültəsi Qr. 652id
+1.Type conversions,increment operators  8
+2.Go to statement and creating loop with goto statement  15
+3.What is recursion.Avantages and disavantages of them   39
+4.Write C program that print fibonnachi number up to entered index  47
+5.Create function that define given number is odd or even  55
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 6
+                          ITT fakültəsi Qr. 652id
+1.Algorithm.What is characteristic of algorithm?  1
+2.Ternary operator,nested ternary operator  16
+3.Pass by value and pass by referans in C   22
+4.Write C program that define is given two float is equals up to 3 digits from comma  41
+5.Create C program that prints elements place between maximun and minumum elements of given array  58
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 7
+                          ITT fakültəsi Qr. 652id
+1.Relational,arithmetic operations  5
+2.Working principle of nested loop   19
+3.Local and global variables and its difference  24
+4.Write C program swap two variables values  42
+5.Create a function that find maximum element in given array  53
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 8
+                          ITT fakültəsi Qr. 652id
+1.Relational,arithmetic operations  5
+2.Continue and break statements,infinity loop  18
+3.Pre-processors  34
+4.Write C program that print fibonnachi number up to entered index  47
+5.Create a function finds average of elements in given array  59
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 9
+                          ITT fakültəsi Qr. 652id
+1.Types of algorithm ,and its block scheme descriptions  2
+2.Shifting operators   10
+3.Arrays  and multidimensional arrays in C  20
+4.Write C program that check given number is polindromic or not  44
+5.Create a function that find maximum element in given array  53
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 10
+                          ITT fakültəsi Qr. 652id
+1.Type conversions,increment operators  8
+2.What is macros in C,object like and function like macros  12
+3.Enumerations  33
+4.Write C program that define is given two float is equals up to 3 digits from comma  41
+5.Create function that find maximum of two given number  54
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 11
+                          ITT fakültəsi Qr. 652id
+1.Relational,arithmetic operations  5
+2.Go to statement and creating loop with goto statement  15
+3.Arrays  and multidimensional arrays in C  20
+4.Write C program that find divion and mod of given two number without using / and %  46
+5.Create a function that find maximum element in given array  53
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 12
+                          ITT fakültəsi Qr. 652id
+1.Constants in C  4
+2.Nested assignment in C  11
+3.Static variables and its usage  25
+4.Write C program find maximum number among three given numbers  40
+5.Create function that find maximum of two given number  54
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 13
+                          ITT fakültəsi Qr. 652id
+1.Comma in C,as seperator,as operator  9
+2.Nested assignment in C  11
+3.What is recursion.Avantages and disavantages of them   39
+4.Write C program that check given number is polindromic or not  44
+5.Create program that find sum of two given array  50
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 14
+                          ITT fakültəsi Qr. 652id
+1.Logical, assigment operators,precedence of operators  6
+2.Nested assignment in C  11
+3.Structs in C   32
+4.Write C program print all digit of given number that it's size arbitary  43
+5.Arbitary 2D array is given.Create program that make right diagonal and left diagonal elements value be 0   52
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 15
+                          ITT fakültəsi Qr. 652id
+1.Variables,its types,its size,its naming rules  3
+2.Ternary operator,nested ternary operator  16
+3.Pass by value and pass by referans in C   22
+4.Write C program check given number's digit is sorted or not  45
+5.Arbitary 2D array is given.Create program that make right diagonal and left diagonal elements value be 0   52
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 16
+                          ITT fakültəsi Qr. 652id
+1.Type conversions,increment operators  8
+2.Go to statement and creating loop with goto statement  15
+3.Bit field declaration  30
+4.Write C program print all digit of given number that it's size arbitary  43
+5.Create function that replace odd number with its square in given array  56
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 17
+                          ITT fakültəsi Qr. 652id
+1.Comma in C,as seperator,as operator  9
+2.Shifting operators   10
+3.Arrays  and multidimensional arrays in C  20
+4.Write C program that find divion and mod of given two number without using / and %  46
+5.Create a function that find maximum element in given array  53
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 18
+                          ITT fakültəsi Qr. 652id
+1.Comma in C,as seperator,as operator  9
+2.Continue and break statements,infinity loop  18
+3.Typedef and define keywords  31
+4.Write C program get new number with adding 1 in front of given number.  49
+5.Create a function finds average of elements in given array  59
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 19
+                          ITT fakültəsi Qr. 652id
+1.Variables,its types,its size,its naming rules  3
+2.Go to statement and creating loop with goto statement  15
+3.Enumerations  33
+4.Write C program swap two variables values  42
+5.Create a function finds average of elements in given array  59
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 20
+                          ITT fakültəsi Qr. 652id
+1.What is high level and low level programing language  0
+2.Shifting operators   10
+3.Typedef and define keywords  31
+4.Write C program print all digit of given number that it's size arbitary  43
+5.2D arbitary array is given. Create program that swap its first row with last row  57
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 21
+                          ITT fakültəsi Qr. 652id
+1.Logical, assigment operators,precedence of operators  6
+2.Ternary operator,nested ternary operator  16
+3.Static variables and its usage  25
+4.Write C program check given number is prime or not  48
+5.Create program that find sum of elements which locate above of right diagonal in 2D array  51
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 22
+                          ITT fakültəsi Qr. 652id
+1.Comma in C,as seperator,as operator  9
+2.What is dangling else problem  14
+3.Dynamic memory menagments  29
+4.Write C program that check given number is polindromic or not  44
+5.Create function that find maximum of two given number  54
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 23
+                          ITT fakültəsi Qr. 652id
+1.Type conversions,increment operators  8
+2.Ternary operator,nested ternary operator  16
+3.What is header files and how they used in C  38
+4.Write C program print all digit of given number that it's size arbitary  43
+5.Create function that define given number is odd or even  55
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 24
+                          ITT fakültəsi Qr. 652id
+1.Comma in C,as seperator,as operator  9
+2.Nested assignment in C  11
+3.External variables and its usage  26
+4.Write C program find maximum number among three given numbers  40
+5.Create program that find sum of elements which locate above of right diagonal in 2D array  51
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 25
+                          ITT fakültəsi Qr. 652id
+1.Type conversions,increment operators  8
+2.Ternary operator,nested ternary operator  16
+3.Pre-processors  34
+4.Write C program that check given number is polindromic or not  44
+5.Create C program that prints elements place between maximun and minumum elements of given array  58
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 26
+                          ITT fakültəsi Qr. 652id
+1.Bitwise,misc operators  7
+2.Working principle of nested loop   19
+3.Error types and handling   37
+4.Write C program check given number's digit is sorted or not  45
+5.Create program that find sum of elements which locate above of right diagonal in 2D array  51
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 27
+                          ITT fakültəsi Qr. 652id
+1.Type conversions,increment operators  8
+2.Shifting operators   10
+3.What is function prototype and why needed it  23
+4.Write C program that find divion and mod of given two number without using / and %  46
+5.Create program that find sum of two given array  50
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 28
+                          ITT fakültəsi Qr. 652id
+1.Types of algorithm ,and its block scheme descriptions  2
+2.Loop operators for,while,do while  17
+3.Pass by value and pass by referans in C   22
+4.Write C program check given number's digit is sorted or not  45
+5.Create function that find maximum of two given number  54
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 29
+                          ITT fakültəsi Qr. 652id
+1.Relational,arithmetic operations  5
+2.Conditional statements and its types.  13
+3.Functions and its types  21
+4.Write C program that check given number is polindromic or not  44
+5.Create program that find sum of two given array  50
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
+                   AZƏRBAYCAN RESPUBLİKASININ TƏHSİL NAZİRLİYİ 
+                        AZƏRBAYCAN TEXNIKI UNIVERSITETI
+                    Kompüter proqramlaşdırma 1
+                               Bilet № 30
+                          ITT fakültəsi Qr. 652id
+1.Bitwise,misc operators  7
+2.Ternary operator,nested ternary operator  16
+3.Static variables and its usage  25
+4.Write C program that find divion and mod of given two number without using / and %  46
+5.Create program that find sum of two given array  50
+
+Kafedra müdiri: Qasimov V.Ə 
+Fənn müəllimi:  Məmmədzadə N.F
+
